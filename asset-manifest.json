@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da717bef.chunk.css",
+    "main.js": "/static/js/main.9c43bf48.chunk.js",
+    "main.js.map": "/static/js/main.9c43bf48.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e519f869.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e519f869.js.map",
+    "static/js/2.9079ddb0.chunk.js": "/static/js/2.9079ddb0.chunk.js",
+    "static/js/2.9079ddb0.chunk.js.map": "/static/js/2.9079ddb0.chunk.js.map",
+    "static/js/3.b41d2467.chunk.js": "/static/js/3.b41d2467.chunk.js",
+    "static/js/3.b41d2467.chunk.js.map": "/static/js/3.b41d2467.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.da717bef.chunk.css.map": "/static/css/main.da717bef.chunk.css.map",
+    "static/js/2.9079ddb0.chunk.js.LICENSE.txt": "/static/js/2.9079ddb0.chunk.js.LICENSE.txt",
+    "static/media/Resume.82dd5fb3.pdf": "/static/media/Resume.82dd5fb3.pdf",
+    "static/media/google-logo.89ba8c30.png": "/static/media/google-logo.89ba8c30.png",
+    "static/media/tehaas.cbb21efd.JPG": "/static/media/tehaas.cbb21efd.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e519f869.js",
+    "static/js/2.9079ddb0.chunk.js",
+    "static/css/main.da717bef.chunk.css",
+    "static/js/main.9c43bf48.chunk.js"
+  ]
+}
